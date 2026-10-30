@@ -1,0 +1,6 @@
+{
+  "name": "Si-Deep: Generator RPM Pembelajaran Mendalam Kemendikdasmen",
+  "description": "Aplikasi perancang Rencana Pembelajaran Mendalam (RPM) berstandar kurikulum Kemendikdasmen RI dengan prinsip Berkesadaran (Mindful), Bermakna (Meaningful), dan Menggembirakan (Joyful).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
